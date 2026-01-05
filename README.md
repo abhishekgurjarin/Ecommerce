@@ -47,7 +47,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/abhishekboadgurjar/ecommerce.git
+   git clone https://github.com/abhishekgurjarin/ecommerce.git
    cd mern-ecommerce
    ```
 
@@ -127,14 +127,7 @@ Access your application at:
 ![Ecommerce Homepage](https://github.com/user-attachments/assets/c4d1b28a-caf0-43f9-849f-251f1661b2e1)
 ![Ecommerce Banner](https://github.com/user-attachments/assets/d6b9a9c7-fd1b-4bd4-802b-64e143ba4e73)
 
-### 🔑 Demo Account
 
-After seeding, use these credentials to explore the platform:
-```
-Email: abhishekboadgurjar@gmail.com
-Password: abhishekboadgurjar@gmail.comA1
-
-```
 
 > **Note**: The demo account uses a non-functional email address. For testing password reset and OTP verification features, create an account with a valid email.
 
@@ -171,10 +164,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-- **GitHub**: [@abhishekboadgurjar](https://github.com/abhishekboadgurjar)
-- **Twitter**: [@abhishekjs](https://twitter.com/abhishekbgurjar)
-- **Email**: [abhishekgurjarofcl.com](abhishekgurjarofcl.com)
-- **Project Link**: [https://github.com/abhishekboadgurjar/Ecommerce](https://github.com/abhishekboadgurjar/Ecommerce)
+- **GitHub**: [@abhishekgurjarin](https://github.com/abhishekgurjarin)
+- **Project Link**: [https://github.com/abhishekboadgurjar/Ecommerce](https://github.com/abhishekgurjarin/Ecommerce)
 ---
 
 ⭐ **Don't forget to star this repository if you found it useful!** ⭐
